@@ -1,4 +1,3 @@
-.gitkeep
 bucket.png
 nave.png
 nave2.png

@@ -2,6 +2,7 @@ package br.mackenzie.lwjgl3;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
+import br.mackenzie.GameIA1;
 import br.mackenzie.GameIA;
 
 /** Launches the desktop (LWJGL3) application. */
